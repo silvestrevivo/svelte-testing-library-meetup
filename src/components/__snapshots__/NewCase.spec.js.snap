@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NewCase /> 1`] = `
+<div>
+  <div>
+    <h1
+      data-testid="page-title"
+    >
+      New Case
+    </h1>
+     
+    <form
+      data-testid="case-form"
+    >
+      <input
+        type="text"
+      />
+       
+      <button>
+        Submit
+      </button>
+    </form>
+  </div>
+</div>
+`;
